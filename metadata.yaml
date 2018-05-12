@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34842'
     url: http://www.gutenberg.org/2009/agents/34842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30822#Campaign-of-Battery-D-First-Rhode-Island-Light-Artillery
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-01-01'
 gutenberg_type: Text
